@@ -1,4 +1,5 @@
-# Merkle-Tree
+# Merkle-Tree ![image](https://user-images.githubusercontent.com/97229784/177378852-74dcdd98-613e-4e6e-8501-7868ca051d95.png)
+
 Merkle Tree for whitelisting
 
 # Create npm progect
