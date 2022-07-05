@@ -4,14 +4,14 @@ Merkle Tree for whitelisting
 
 # Create npm progect
 
-Run in your terminal ![image](https://www.akashtrehan.com/assets/images/emoji/terminal.png):
+### Run in your terminal:
 > cd Desktop
 > mkdir merkle_tree
 > cd merkle_tree/
 
 > ls -l
 
-## Run npm
+### Run npm
 // this is going to create an npm package
 > npm init -y   
 
